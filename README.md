@@ -11,4 +11,4 @@ Cybersecurity professional with an M.S. in Cybersecurity (Dec 2025, 3.88 GPA) an
 -  [CompTIA Security+](https://www.credly.com/badges/047034cf-1a1a-4df7-b706-f83f4511eea6/public_url)
 ## <code>FEATURED PROJECTS</code>
 - [Sysinternals Remote Detection Lab](https://github.com/KingMike77/sysinternals-remote-detection) 
-- [Advanced SOC Analysis Labs](https://github.com/KingMike77/Advanced-SOC-Analysis-Labs)
+
