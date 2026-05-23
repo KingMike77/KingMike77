@@ -13,3 +13,4 @@ Cybersecurity professional with an M.S. in Cybersecurity (Dec 2025, 3.88 GPA) an
 - [Sysinternals Remote Detection Lab](https://github.com/KingMike77/sysinternals-remote-detection) 
 - [Advanced SOC Analysis Labs](https://github.com/KingMike77/Advanced-SOC-Analysis-Labs) *(Private — proprietary course material from the University of Houston's Advanced SOC Analysis Class)*
 - [Vulnerability Management Lab](https://github.com/KingMike77/Vulnerability-Management-Lab)
+- [SOC Home Lab](https://github.com/KingMike77/soc-home-lab) — An evolving Project with more phases in progress. (Currently Phase 1 is complete)
