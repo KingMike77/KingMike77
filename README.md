@@ -112,6 +112,11 @@ Covers threat hunting, log analysis, attacker TTPs, and MITRE ATT&CK mapping. Sk
 
 ---
 
+### 🍯 [T-Pot Honeynet — Weekly Threat Intelligence Project](https://github.com/KingMike77/Tpot-Honeynet-Threat-Intelligence)
+An internet-facing **T-Pot 24.04.1 honeynet** deployed on a dedicated Proxmox VM, collecting real-world attack data 24/7 from global threat actors. Each week the most active or most interesting attacking IPs are selected for in-depth **OSINT profiling** using Spiderfoot, correlated with Kibana attack dashboards, mapped to **MITRE ATT&CK**, and published as structured weekly threat intelligence reports. Over 65,000 attacks captured in the first 72 hours of deployment across 10+ honeypot services including Cowrie, Dionaea, and Sentrypeer.
+
+![T-Pot](https://img.shields.io/badge/T--Pot-FFB300?style=flat-square&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white) ![Spiderfoot](https://img.shields.io/badge/Spiderfoot-222222?style=flat-square&logoColor=white) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat-square&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+
 <div align="center">
 
 <br/>
