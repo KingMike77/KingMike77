@@ -117,6 +117,15 @@ An internet-facing **T-Pot 24.04.1 honeynet** deployed on a dedicated Proxmox VM
 
 ![T-Pot](https://img.shields.io/badge/T--Pot-FFB300?style=flat-square&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white) ![Spiderfoot](https://img.shields.io/badge/Spiderfoot-222222?style=flat-square&logoColor=white) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat-square&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
+---
+
+### 🧪 [Malware Analysis Sandbox](https://github.com/KingMike77/Malware-Sandbox)
+Purpose-built malware analysis environment running on a dedicated **Proxmox VE** host using **FlareVM** and **Remnux**. Designed for safe malware detonation, static and dynamic analysis, network traffic inspection, IOC extraction, and MITRE ATT&CK mapping within a fully isolated environment. Malware samples are analyzed using tools such as Process Monitor, Wireshark, DIE, and CFF Explorer, with findings documented through detailed technical reports. First completed analysis: **WannaCry ransomware**, including identification of forged PE metadata impersonating `diskpart.exe` as a defense evasion technique. Additional malware families are planned as the project continues to evolve.
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![FlareVM](https://img.shields.io/badge/FlareVM-CC0000?style=flat-square&logoColor=white) ![Remnux](https://img.shields.io/badge/Remnux-2E7D32?style=flat-square&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat-square&logoColor=white) ![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-222222?style=flat-square&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+
+---
+
 <div align="center">
 
 <br/>
