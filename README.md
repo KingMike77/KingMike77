@@ -90,6 +90,13 @@ A full threat hunting lab built on **Proxmox VE** across three physical machines
 
 ---
 
+### 🔑 [MFG Entra ID IAM Lab](https://github.com/KingMike77/MFG-Entra-ID-IAM-Lab)
+The **Mensah Financial Group (MFG) Entra ID IAM Lab** is a hybrid identity lab for a fictional regional bank, aligned with **SC-300** objectives. It connects an on-premises **Active Directory** domain (Windows Server 2022 and a Windows 11 workstation in VMware) to **Microsoft Entra ID** using Entra Connect Sync, with the workstation configured for hybrid join. The lab covers 7 **Conditional Access** policies evaluated in report-only mode using **KQL** in Log Analytics, **PIM** just-in-time role activation, an entitlement management access package, and an app registration with admin-consented Microsoft Graph permissions. Each capability is labeled **Tested, Configured, Limited, or Not verified**, with unresolved issues and incomplete validations documented transparently.
+
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Conditional Access](https://img.shields.io/badge/Conditional_Access-0078D4?style=flat-square&logoColor=white) ![PIM](https://img.shields.io/badge/PIM-0078D4?style=flat-square&logoColor=white) ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+
+---
+
 ### 🔍 [Vulnerability Management Lab](https://github.com/KingMike77/Vulnerability-Management-Lab)
 End-to-end vulnerability management pipeline using **Tenable Nessus** and **Azure**. Covers asset discovery, credentialed scanning, CVE triage, and remediation validation, fully documented on GitHub.
 
