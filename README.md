@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-I started in IT and moved deliberately toward cybersecurity, and that combination is now one of my biggest professional strengths. I hold an M.S. in Cybersecurity from the University of Houston (3.88 GPA), a B.S. in Computer Engineering Technology, and four CompTIA certifications, and I've backed that up with real-world experience in both fields. As a SOC Analyst Intern at Wärtsilä North America I worked inside a live OT/ICS SOC, analyzing 3,000+ monthly tickets, contributing to weekly threat intelligence reporting, and co-developing tabletop exercise materials and response playbooks. In my current role as Campus IT Administrator at Covista I manage identity, endpoint, and network security alongside clinical simulation hardware for 900+ users. I also maintain a personal Proxmox-based threat hunting lab running Elastic Stack 8.x and Fleet, where I've built custom detection rules and successfully simulated and caught real attacks. I bring technical depth across the full IT and security stack and I'm actively seeking my next role in SOC analysis, threat intelligence, incident response, or IT systems.
+I started in IT and moved deliberately toward cybersecurity, and that combination is now one of my biggest professional strengths. I hold an M.S. in Cybersecurity from the University of Houston (3.88 GPA), a B.S. in Computer Engineering Technology, four CompTIA certifications, and two Microsoft Azure certifications, and I've backed that up with real-world experience in both fields. As a SOC Analyst Intern at Wärtsilä North America I worked inside a live OT/ICS SOC, analyzing 3,000+ monthly tickets, contributing to weekly threat intelligence reporting, and co-developing tabletop exercise materials and response playbooks. I'm now a System Administrator at HighRadius, where I support Microsoft 365, Entra ID, Intune, Active Directory, SSO, and MFA for U.S. employees, handle onboarding and offboarding, and partner with global IT and cybersecurity teams on access management and audits. Previously, as Campus IT Administrator at Covista, I managed identity, endpoint, and network security alongside clinical simulation hardware for 900+ users. I also maintain a personal Proxmox-based threat hunting lab running Elastic Stack 8.x and Fleet, where I've built custom detection rules and successfully simulated and caught real attacks. I bring technical depth across the full IT and security stack and I'm actively seeking my next role in SOC analysis, threat intelligence, incident response, or IT systems.
 
 - 🏠 Houston, TX, open to relocation nationwide
 
@@ -78,6 +78,8 @@ I started in IT and moved deliberately toward cybersecurity, and that combinatio
 - [CompTIA CySA+ (Cybersecurity Analyst)](https://www.credly.com/badges/f64924ba-bb83-450b-8384-db4cf7ff5a9a/public_url)
 - [CompTIA PenTest+ (Penetration Testing)](https://www.credly.com/badges/6fa10cb8-e18d-4abc-b079-61cbf51a7aa0/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/047034cf-1a1a-4df7-b706-f83f4511eea6/public_url)
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMensah-7180/6B29A58AA4F2AE9?sharingId=E68775F836BE286E)
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMensah-7180/571EF35433FCDE87?sharingId=E68775F836BE286E)
 
 ---
 
